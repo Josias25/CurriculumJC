@@ -1,0 +1,20 @@
+body{background-color: #74b49b;
+}
+div{background-color: white;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+    background-color: #74b49b;
+    padding: 5px;
+    border-radius:20px;
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
